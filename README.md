@@ -16,6 +16,7 @@ Building scalable distributed systems, event-driven architectures, and high-perf
 | **Languages** | Python, Go, PHP, JavaScript, SQL |
 | **Frameworks** | FastAPI, Django, Flask |
 | **Databases & Caching** | PostgreSQL, MySQL, MongoDB, ClickHouse, Redis |
+| **AI & Agentic Systems** |LangChain · MCP SDK(Python) · LLM Orchestration: OpenAI API, Anthropic API, Prompt Engineering
 | **Cloud & Infra** | AWS (EC2, Lambda, SQS, SES, S3, API Gateway), Docker, Linux, Git |
 | **Messaging & Streaming** | Apache Kafka, RabbitMQ |
 | **DevOps & Monitoring** | CI/CD (Jenkins, GitHub Actions), New Relic, Grafana, Prometheus, Coralogix |
