@@ -3,7 +3,7 @@
 ### Senior Backend Engineer & Tech Lead
 Building scalable distributed systems, event-driven architectures, and high-performance microservices. 
 
-- **5+ years of experience** specializing in Python (FastAPI/Django), Go, and AWS cloud infrastructure.
+- **6+ years of experience** specializing in Python (FastAPI/Django), Go, and AWS cloud infrastructure.
 - **Tech Leadership**: Led teams of up to 7 engineers, successfully steering monolith-to-microservice migrations and high-impact security initiatives (SOC 2 compliance).
 - **Scale**: Experienced in building multi-tenant platforms serving 700k+ users with sub-100ms latency and high-throughput ingestion pipelines (5k req/sec).
 
